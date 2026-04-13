@@ -30,3 +30,12 @@ p
     font-weight: lighter;
     text-indent: 25%;
 }
+
+#caja
+{
+  background-color: lightcoral;  
+  width: 50%;
+  padding: 2%;
+  border: 2px solid red;
+  box-sizing: border-box;
+}
