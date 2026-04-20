@@ -8,9 +8,11 @@ console.log ('hola pedro')
 if (nombre == 'pedro'){
 
 console.log ('hola pedro')
-}else {
+}else if(nombre=='flavia'){
 
-    console.log ('quien sos')
+    console.log ('hola flavia')
+}else{
+    console.log ('hola dosconocido')
 }
 
 
