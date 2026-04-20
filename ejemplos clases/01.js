@@ -34,3 +34,13 @@ let auto ={
 }
 
 console.log (auto.modelo)
+
+
+//veo los caracteres de un texto
+
+
+const texto = 'No por mucho madrugar amanece mas temprano'
+
+console.log (texto.length)
+
+console.log (texto.toUpperCase())
