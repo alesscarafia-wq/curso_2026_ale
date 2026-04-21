@@ -1,4 +1,4 @@
-const numeros = [1, 34, 45, 67, 78];
+const numeros = [1, 134, 145, 167, 178];
 let suma = 0
 
 for (let i = 0; i < numeros.length; i++) {
